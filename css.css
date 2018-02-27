@@ -47,7 +47,7 @@ body {
     font-size: 10px;
     font-weight: 300;
     line-height: 5px;
-    background: url(assets/search.svg) no-repeat scroll;
+    background: url(assets/Search.svg) no-repeat scroll;
     background-position: 225px 2px;
 }
 
@@ -173,7 +173,7 @@ body {
     width: 130px;
     font-size: 15px;
     line-height: 20px;
-    background: url(assets/search.svg) no-repeat scroll;
+    background: url(assets/Search.svg) no-repeat scroll;
     background-position: 100px;
     background-size: 18px 18px;
 }
